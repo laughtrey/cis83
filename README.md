@@ -4,6 +4,10 @@
 ### Fall '19
 #### Final grade:
 
+[Continued from CIS 206](https://laughtrey.github.io/cis206/)
+
+[Continued in CIS 208](https://laughtrey.github.io/cis208/)
+
 ## Projects
 
 ## 1 Variables and Expressions
