@@ -6,7 +6,7 @@
 import math
 x = 3
 y = 9
-print ("X is:", x, "Y is:", y)
+print("X is:", x, "Y is:", y)
 print("Sum:", x + y)
 print("Difference: ", x - y)
 print("Product: ", x * y)
