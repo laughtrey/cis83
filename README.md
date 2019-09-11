@@ -1,5 +1,6 @@
-# CIS 83 - Python - zyBooks
+# CIS 83 - Programming Python
 
+### Textbook: zyBooks
 ### Fall '19
 
 ## Projects
