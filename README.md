@@ -12,7 +12,9 @@
 
 ## 2 Variables and Expressions
 >Sept-8 Assignment operators and arithmetic operations in Python. Here we go again!
+
 ## 3 Types
 >Sept-11 Basic arithmetic, I like how python can read input though. Super quick.
+
 ## 4 Branching
 >Sept-16 Loops again. I'm not a fan of the word 'elif'. It's like they just wanted to change it to change it. Is it that hard to type else if?
