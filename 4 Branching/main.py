@@ -1,3 +1,8 @@
+# File: main.py
+# Description: Variable project.
+# Author: Raymond Laughrey
+# Email: raymonl4963@student.vvc.edu
+# Date of creation: Tue Sep 17 15:11:55 PDT 2019
 income = int(input("What is your income per year?: "))
 if income <= 50000:
   print('Your tax rate is 1%')
