@@ -25,3 +25,7 @@
 
 ## 6 Functions
 >Sept-30 Functions in Python freak me out a little bit. They're just floating there, hoping you remembered to hit tab. I miss my {  }.
+
+## 7 Strings
+>Oct-7 Simple string functions, but they're sort of tricking us into working with lists and capitalizations and such. I used a lambda for the .capitalize() function
+>and it did the job just fine.
