@@ -2,12 +2,14 @@
 >Write functions that will calculate and return the following:
 
 - `sphere_volume(radius)`
-    ![spherevolume](https://i.imgur.com/z9n6TpZ.png)
+
+![spherevolume](https://i.imgur.com/z9n6TpZ.png)
     
-    Where r is the radius and d is the diameter, it would be better to choose r for the variable.
+Where r is the radius and d is the diameter, it would be better to choose r for the variable.
 
 
 - `sphere_surface(radius)`
+
 ![spheresurface](https://i.imgur.com/hhPGuO5.png)
 
 where r = radius of sphere
