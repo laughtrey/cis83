@@ -6,17 +6,29 @@ The following is as a dialog that the user would have with the program:
 Input:
 
 January: 2
+
 February: 3.5
+
 March: 3.5
+
 April: 5
+
 May: 6
+
 June: 3.5
+
 July: 2.8
+
 August: 2.0
+
 September: 3.2
+
 October: 3.1
+
 November: 2.0
+
 December: 1.0
+
 
 Output:
 ```
