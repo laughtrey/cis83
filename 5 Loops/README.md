@@ -32,6 +32,7 @@ Create a different version of the program that prints a histogram in which the t
 equals each possible value is displayed by printing a character, such as *, that number of times. 
 
 The following provides an example:
+
 ![loopexample](https://i.imgur.com/W816Pm5.png)
 
 Due: Monday, 30 September 2019, 6:00 AM
