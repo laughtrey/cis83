@@ -33,3 +33,12 @@
 ### 8 Lists and Dictionaries
 >Oct-21 Last week was midterm, got 99%. This week we're looking at data containers and their built in functions. I'm glad they seem to have a lot.
 >I was always a little annoyed at the differences in vectors, lists, arrays in C++
+
+### 9 Classes
+>Oct-28 Classes are the best part of learning any OOP language. Python was no different. Love it.
+
+### 10 Exceptions
+>Nov-4 Exception handling. I still need to figure out how to delete the object when it encounters an exception during creation.
+
+### 11 Modules
+>Nov-11 Modules are like little mini-classes I think. Neat little script you can reuse without creating an entire class for it.
