@@ -10,3 +10,5 @@ The class at construction ( __init__(self) ) . should throw an exception if the 
 
 use the try: except: block to output an error message.  In the __init__ member raise the error using the ValueError object.  
 Test this by trying to create a Rational number with a 0 as the denominator.  
+
+Due: Sunday, 10 November 2019, 11:55 PM
