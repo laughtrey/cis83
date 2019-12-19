@@ -1,3 +1,5 @@
+### Files
+
 For this project, there will be 2 programs to write.  Write a program that writes a series of random numbers to a file.  
 Each random number should be in the range of 1 to 500.  If you need help with generating random numbers check out: 
 https://www.pythoncentral.io/how-to-generate-a-random-number-in-python/
