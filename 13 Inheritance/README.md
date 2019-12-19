@@ -1,14 +1,14 @@
 ### Employee and ProductionWorker Classes
 >Write an Employee class that keeps data attributes for the following pieces of information:
 
--Employee name
--Employee number
+- Employee name
+- Employee number
 
 Next, write a class named ProductionWorker that is a subclass of the Employee class. The
 ProductionWorker class should keep data attributes for the following information:
 
--Shift number (an integer, such as 1,2, or 3)
--Hourly pay rate
+- Shift number (an integer, such as 1,2, or 3)
+- Hourly pay rate
 
 The workday is divided into two shifts: day and night. The shift attribute will hold an integer value
 representing the shift that the employee works. The day shift is shift 1 and the night shift is shift 2.
