@@ -2,7 +2,7 @@
 
 ### Textbook: zyBooks
 ### Fall '19
-#### Final grade:
+#### Final grade: A
 
 [Continued from CIS 206](https://laughtrey.github.io/cis206/)
 
@@ -42,3 +42,9 @@
 
 ### 11 Modules
 >Nov-11 Modules are like little mini-classes I think. Neat little script you can reuse without creating an entire class for it.
+
+### 12 Files
+>Nov-18 Files seem more simple than C++ as well. I like it all the built in functionality a lot.
+
+### 13 Inheritance
+>Nov-25 Same deal as other languages, just learning the syntax at this point.
